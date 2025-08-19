@@ -1,2 +1,2 @@
 # TicTacToe
-It's a simple TicTacToe game, built with python only.
+It's a simple TicTacToe game, built with python & pygame only.
